@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 Portfolio [https://shubhojeet1.github.io/shubhojeetPortfolio/](https://shubhojeet1.github.io/shubhojeetPortfolio/)
+- 👨‍💻 Portfolio [https://shubhojeet1.github.io](https://shubhojeet1.github.io)
 
 - 💬 Ask me about **HTML,Advance CSS, VanillaJS**
 
