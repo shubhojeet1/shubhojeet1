@@ -46,6 +46,8 @@
     <a href="https://github.com/masai-course/SHUBHOJEET_fp03_002/commit/0a2bb523a447cd379edbf6c64a21cfbb3f22daba" target="blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather-App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
     </a>
+ 
+  <h2><i>My Github Stats</i></h2>
 
 
 
