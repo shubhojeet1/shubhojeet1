@@ -14,7 +14,7 @@
 
 - 👨‍💻 Portfolio [https://shubhojeet1.github.io](https://shubhojeet1.github.io)
 
-- 💬 Ask me about **HTML,Advance CSS, VanillaJS**
+- 💬 Ask me about **HTML, Advance CSS, VanillaJS, ReactJs**
 
 - 📫 How to reach me **jeetduke1234@gmail.com**
 - <h2><a href="https://drive.google.com/uc?export=download&id=1bxX2B5la9yGHfo9-qcsvJsRiSINilRaE">📜 Download_Resume</a></h2>
