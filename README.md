@@ -34,6 +34,18 @@
 
 
  <img  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/giphy-7.gif" alt="">
+ 
+ <h2><i>My top projects</i></h2>
+ <p align="left">
+    <a href="https://github.com/shubhojeet1/Lifestylestores.com-Clone" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lifestylestores&color=000000&logo=Nike&logoColor=FFFFFF&label=" alt="Lifestylestores" />
+      </a>
+    <a href="https://github.com/shubhojeet1/Sephora.nnow.com-Clone" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sephora.nnow.com-Clone&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Sephora.nnow.com-Clone" />
+    </a>
+    <a href="https://github.com/masai-course/SHUBHOJEET_fp03_002/commit/0a2bb523a447cd379edbf6c64a21cfbb3f22daba" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather-App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
+    </a>
 
 
 
