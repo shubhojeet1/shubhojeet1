@@ -1,12 +1,16 @@
  <img style="position: relative;" src="https://jusmarktech.com/public/a/images/pages/web_development.gif" alt="">
     <h1 align="center">Hi 👋, I'm Shubhojeet Chatterjee</h1>
+    <p align="center">
+  <a href="">
+    <img src="https://readme-typing-svg.demolab.com/?lines=hi! Myself Shubhojeet Chatterjee;A Full-Stack%20Web%20Developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+</p>
+    
 <h3 align="center">A passionate frontend developer from India.I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhojeet1&label=Profile%20views&color=0e75b6&style=flat" alt="shubhojeet1" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhojeet1" alt="shubhojeet1" /></a> </p> -->
 
 - 🔭 I’m currently working on **Google Authentication**
 
@@ -18,6 +22,11 @@
 
 - 📫 How to reach me **jeetduke1234@gmail.com**
 - <h2><a href="https://drive.google.com/uc?export=download&id=1bxX2B5la9yGHfo9-qcsvJsRiSINilRaE">📜 Download_Resume</a></h2>
+
+<h1><h1/>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhojeet1" alt="shubhojeet1" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -53,7 +62,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhojeet1&show_icons=true&locale=en&layout=compact" alt="shubhojeet1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhojeet1&show_icons=true&locale=en" alt="shubhojeet1" /></p>
+ <p align="center">
+    <a href="https://github.com/shubhojeet1github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ashubhojeet1 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhojeet1&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p>         
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhojeet1&" alt="shubhojeet1" /></p>
-<a href="https://github.com/shubhojeet1/github-readme-activity-graph"><img alt="shubhojeet1 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhojeet1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhojeet1&" alt="shubhojeet1" /></p>
+<a href="https://github.com/shubhojeet1/github-readme-activity-graph"><img alt="shubhojeet1 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shubhojeet1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+ 
+ <a href="https://github.com/shubhojeet1/github-readme-activity-graph"><img alt="shubhojeet1 Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shubhojeet1&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
