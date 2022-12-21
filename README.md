@@ -2,7 +2,7 @@
     <h1 align="center">Hi 👋, I'm Shubhojeet Chatterjee</h1>
     <p align="center">
   <a href="">
-    <img src="https://readme-typing-svg.demolab.com/?lines=hi! Myself Shubhojeet Chatterjee;A Full-Stack%20Web%20Developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! Myself Shubhojeet Chatterjee;A Full-Stack%20Web%20Developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
     
 <h3 align="center">A passionate frontend developer from India.I'm a passionate Full Stack Web developer skilled in MERN stack who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code</h3>
