@@ -12,9 +12,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhojeet1&label=Profile%20views&color=0e75b6&style=flat" alt="shubhojeet1" /> </p>
 
 
-- 🔭 I’m currently working on **AWs**
+- 🔭 I’m currently working on **AWS**
 
-- 🌱 I’m a  **MERN Stack Developer**
+- 🌱 Currently I’m learning  **DevOps**
 
 - 👨‍💻 Portfolio [https://shubhojeet1.github.io](https://shubhojeet1.github.io)
 
