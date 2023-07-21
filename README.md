@@ -12,13 +12,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhojeet1&label=Profile%20views&color=0e75b6&style=flat" alt="shubhojeet1" /> </p>
 
 
-- 🔭 I’m currently working on **Google Authentication**
+- 🔭 I’m currently working on **AWs**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m a  **MERN Stack Developer**
 
 - 👨‍💻 Portfolio [https://shubhojeet1.github.io](https://shubhojeet1.github.io)
 
-- 💬 Ask me about **HTML, Advance CSS, VanillaJS, ReactJs**
+- 💬 Ask me about **HTML, Advance CSS, VanillaJS, ReactJs, Nodejs, Express, Aws **
 
 - 📫 How to reach me **jeetduke1234@gmail.com**
 - <h2><a href="https://drive.google.com/uc?export=download&id=1bxX2B5la9yGHfo9-qcsvJsRiSINilRaE">📜 Download_Resume</a></h2>
