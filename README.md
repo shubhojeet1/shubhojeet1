@@ -21,7 +21,7 @@
 - 💬 Ask me about **HTML, Advance CSS, VanillaJS, ReactJs, Nodejs, Express, Mongo DB, Aws **
 
 - 📫 How to reach me **jeetduke1234@gmail.com**
-- <h2><a href="https://drive.google.com/uc?export=download&id=1bxX2B5la9yGHfo9-qcsvJsRiSINilRaE">📜 Download_Resume</a></h2>
+- <h2><a href="https://drive.google.com/uc?export=download&id=14t8wETIlJNYJwxcyOjPFUcsI8Q_2yBZN">📜 Download_Resume</a></h2>
 
 <h1><h1/>
 
